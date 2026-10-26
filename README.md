@@ -11,17 +11,17 @@ A full-stack Spring Boot app that decides when to water a landscape. A rules-bas
 
 | Project | What it shows |
 |---|---|
-| [Android Vacation Tracker](https://github.com/LittleNemo2/Android-Mobile-App) | Java Android app with Room/SQLite, validation, alarm notifications, and sharing |
-| [Landon Hotel](https://github.com/LittleNemo2/Java-Advanced) | Multithreaded Spring Boot + Angular app, time zone conversion, multi-stage Docker build |
-| [Vacation Booking API](https://github.com/LittleNemo2/Back-End-Programming) | Spring Boot REST API with JPA and a transactional checkout service |
-| [World Map Explorer](https://github.com/LittleNemo2/JavaScript-Programming) | Angular app with an interactive SVG map and live World Bank API data |
-| [Coffee Shop Inventory](https://github.com/LittleNemo2/Java-Frameworks) | Spring MVC + Thymeleaf inventory app with validation and JUnit tests |
+| [Android Vacation Tracker](https://github.com/LittleNemo2/Android-Vacation-Tracker) | Java Android app with Room/SQLite, validation, alarm notifications, and sharing |
+| [Landon Hotel](https://github.com/LittleNemo2/Landon-Hotel) | Multithreaded Spring Boot + Angular app, time zone conversion, multi-stage Docker build |
+| [Vacation Booking API](https://github.com/LittleNemo2/Vacation-Booking-API) | Spring Boot REST API with JPA and a transactional checkout service |
+| [World Map Explorer](https://github.com/LittleNemo2/World-Map-Explorer) | Angular app with an interactive SVG map and live World Bank API data |
+| [Coffee Shop Inventory](https://github.com/LittleNemo2/Coffee-Shop-Inventory) | Spring MVC + Thymeleaf inventory app with validation and JUnit tests |
 
 ## Tech
 
-**Languages:** Java, TypeScript, JavaScript, SQL, HTML/CSS
-**Frameworks:** Spring Boot, Spring Security, Spring Data JPA, Angular, Android SDK, Room, Thymeleaf
-**Tools and cloud:** Git, Maven, Docker, Azure, PostgreSQL, MySQL, H2, JUnit, IntelliJ IDEA, Android Studio
+- **Languages:** Java, TypeScript, JavaScript, SQL, HTML/CSS
+- **Frameworks:** Spring Boot, Spring Security, Spring Data JPA, Angular, Android SDK, Room, Thymeleaf
+- **Tools and cloud:** Git, Maven, Docker, Azure, PostgreSQL, MySQL, H2, JUnit, IntelliJ IDEA, Android Studio
 
 ## Connect
 
